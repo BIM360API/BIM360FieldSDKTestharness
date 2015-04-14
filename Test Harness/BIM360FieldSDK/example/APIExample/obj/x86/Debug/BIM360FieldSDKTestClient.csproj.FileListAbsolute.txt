@@ -1,0 +1,54 @@
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.exe.config
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.exe
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.pdb
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.dll
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\bin\Debug\RestSharp.dll
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.csprojResolveAssemblyReference.cache
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.csproj.GenerateResource.Cache
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\obj\x86\Debug\APIExample.exe
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\obj\x86\Debug\APIExample.pdb
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.ClientForm.resources
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.exe.config
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\obj\x86\Debug\APIExample.exe
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\obj\x86\Debug\APIExample.pdb
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.csprojResolveAssemblyReference.cache
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.ClientForm.resources
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.csproj.GenerateResource.Cache
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.exe
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.pdb
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.dll
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\Newtonsoft.Json.dll
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\RestSharp.dll
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\Newtonsoft.Json.xml
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\example\APIExample\bin\Debug\RestSharp.xml
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.exe.config
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.exe
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.pdb
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.dll
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\RestSharp.dll
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\bin\Debug\RestSharp.xml
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.csprojResolveAssemblyReference.cache
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.ClientForm.resources
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.csproj.GenerateResource.Cache
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\obj\x86\Debug\APIExample.exe
+C:\Users\Manu\Desktop\BIM360FieldSDK\example\APIExample\obj\x86\Debug\APIExample.pdb
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.exe.config
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\obj\x86\Debug\APIExample.exe
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\obj\x86\Debug\APIExample.pdb
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.exe
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\APIExample.pdb
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.dll
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\Newtonsoft.Json.dll
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\RestSharp.dll
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\Newtonsoft.Json.xml
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\bin\Debug\RestSharp.xml
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.csprojResolveAssemblyReference.cache
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.ClientForm.resources
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\example\APIExample\obj\x86\Debug\BIM360FieldSDKTestClient.csproj.GenerateResource.Cache

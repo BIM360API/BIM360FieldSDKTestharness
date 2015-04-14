@@ -1,0 +1,53 @@
+C:\Git\Cassie\api\test\APITest\bin\Debug\APITest.dll
+C:\Git\Cassie\api\test\APITest\bin\Debug\APITest.pdb
+C:\Git\Cassie\api\test\APITest\bin\Debug\Autodesk.BIM360Field.APIService.dll
+C:\Git\Cassie\api\test\APITest\bin\Debug\Newtonsoft.Json.dll
+C:\Git\Cassie\api\test\APITest\bin\Debug\RestSharp.dll
+C:\Git\Cassie\api\test\APITest\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+C:\Git\Cassie\api\test\APITest\bin\Debug\Newtonsoft.Json.pdb
+C:\Git\Cassie\api\test\APITest\bin\Debug\Newtonsoft.Json.xml
+C:\Git\Cassie\api\test\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache
+C:\Git\Cassie\api\test\APITest\obj\Debug\APITest.dll
+C:\Git\Cassie\api\test\APITest\obj\Debug\APITest.pdb
+C:\Git\Cassie\api\test\APITest\bin\Debug\Files\C_12.pdf
+C:\Git\Cassie\api\test\APITest\bin\Debug\Files\C_12_thumb.png
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\bin\Debug\Files\C_12.pdf
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\bin\Debug\Files\C_12_thumb.png
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\bin\Debug\APITest.dll
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\bin\Debug\APITest.pdb
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\bin\Debug\Autodesk.BIM360Field.APIService.dll
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\bin\Debug\RestSharp.dll
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\obj\Debug\APITest.dll
+C:\Users\Manu\Documents\Visual Studio 2012\Projects\BIM360FieldSDK\test\APITest\obj\Debug\APITest.pdb
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\test\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\test\APITest\obj\Debug\APITest.dll
+Z:\Documents\p4workspace\B3FSDK\BIM360FieldCommon\BIM360FieldSDK\test\APITest\obj\Debug\APITest.pdb
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\Files\C_12.pdf
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\Files\C_12_thumb.png
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\APITest.dll
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\APITest.pdb
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\Autodesk.BIM360Field.APIService.dll
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\RestSharp.dll
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\bin\Debug\RestSharp.xml
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\obj\Debug\APITest.dll
+C:\Users\Manu\Desktop\BIM360FieldSDK\test\APITest\obj\Debug\APITest.pdb
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\Files\C_12.pdf
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\Files\C_12_thumb.png
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\APITest.dll
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\APITest.pdb
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\Autodesk.BIM360Field.APIService.dll
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\Newtonsoft.Json.dll
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\RestSharp.dll
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\Autodesk.BIM360Field.APIService.pdb
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\Newtonsoft.Json.xml
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\bin\Debug\RestSharp.xml
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\obj\Debug\APITest.dll
+Z:\Box Sync\BIM360SDK\Field\BIM 360 Field Test Harness\BIM360FieldSDK\test\APITest\obj\Debug\APITest.pdb

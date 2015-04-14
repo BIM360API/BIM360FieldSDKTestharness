@@ -1,0 +1,10 @@
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\bin\Release\Autodesk.BIM360Field.APIService.dll
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\bin\Release\Autodesk.BIM360Field.APIService.pdb
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\bin\Release\Newtonsoft.Json.dll
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\bin\Release\RestSharp.dll
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\bin\Release\Newtonsoft.Json.pdb
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\bin\Release\Newtonsoft.Json.xml
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\bin\Release\RestSharp.xml
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\obj\Release\Autodesk.BIM360Field.APIService.dll
+C:\Users\barrywalker71\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\Autodesk.BIM360Field\APIService\obj\Release\Autodesk.BIM360Field.APIService.pdb
